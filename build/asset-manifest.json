@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MP4-player-hosted/static/css/main.d8a7c97e.css",
+    "main.js": "/MP4-player-hosted/static/js/main.cf23777d.js",
+    "static/media/1.m4v": "/MP4-player-hosted/static/media/1.435cf3f13698d2571b61.m4v",
+    "index.html": "/MP4-player-hosted/index.html",
+    "main.d8a7c97e.css.map": "/MP4-player-hosted/static/css/main.d8a7c97e.css.map",
+    "main.cf23777d.js.map": "/MP4-player-hosted/static/js/main.cf23777d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8a7c97e.css",
+    "static/js/main.cf23777d.js"
+  ]
+}
